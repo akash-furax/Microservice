@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 
 	<name>Basic Application Parent Project</name>
-	<description>This has multiple modules which can also be called microservices....</description>
+	<description>This has multiple modules which can also be called microservices........</description>
 
 	<modules>
         <module>config-service</module>
